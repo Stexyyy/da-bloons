@@ -1,7 +1,10 @@
+
 #include <SFML/Graphics.hpp>
 #include <vector>
 #include<iostream>
 using namespace std;
+
+
 
 //create a struct: structs are like classes, but no functions (just variables)
 struct point {
